@@ -1,0 +1,16 @@
+{
+  "name": "design_patterns7/design_patterns",
+  "description": "design-patterns com php 7.4.0",
+  "authors": [
+    {
+      "name": "Vinicius Lee",
+      "email": "vinilee34@gmail.com"
+    }
+  ],
+  "required": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app"
+    }
+  }
+}
